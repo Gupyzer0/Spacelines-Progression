@@ -6,3 +6,7 @@ Contract pack for the Bluedog Design Bureau parts using the JNSQ mod.
 * BDB contracts available with the mod.
 * Thanks to Morphisor for his missions included in the original BDB mod.
 ### LICENSE CC-BY-NC-SA-4.0
+
+### Restore SAS to:
+
+- bluedog_Transit5_GravityGradientBoom_Light
