@@ -1,5 +1,6 @@
 # Bluedog Design Bureau Contracts 
-Contract pack for the Bluedog Design Bureau parts using the JNSQ mod. 
+Contract pack for the Bluedog Design Bureau parts using the JNSQ mod.
+** Still not finished **
 
 ### This mod builds on top of these wonderful mods:
 * History of Spaceflight contract pack (Forked).
@@ -7,6 +8,6 @@ Contract pack for the Bluedog Design Bureau parts using the JNSQ mod.
 * Thanks to Morphisor for his missions included in the original BDB mod.
 ### LICENSE CC-BY-NC-SA-4.0
 
-### Restore SAS to:
-
-- bluedog_Transit5_GravityGradientBoom_Light
+### Might add later missions for . . . (Once I get some more RAM memory)
+[] Probes Plus -> https://github.com/raveloda/Coatl-Aerospace/releases/
+[] DMagic Orbital Science + SOCK
