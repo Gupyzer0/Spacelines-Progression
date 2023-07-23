@@ -9,5 +9,5 @@ Contract pack for the Bluedog Design Bureau parts using the JNSQ mod.
 ### LICENSE CC-BY-NC-SA-4.0
 
 ### Might add later missions for . . . (Once I get some more RAM memory)
-[] Probes Plus -> https://github.com/raveloda/Coatl-Aerospace/releases/
-[] DMagic Orbital Science + SOCK
+[] Ж-20 "Moroz" Spaceplane - For Dynasoar.
+[] SOCK - For Shuttle !.
