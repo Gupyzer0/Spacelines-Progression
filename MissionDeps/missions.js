@@ -384,7 +384,7 @@ missions = [
     },
     {
         "_name": "Friendship-7",
-        "_deps": ["Liberty-Bell-7"]
+        "_deps": ["Freedom-7"]
     },
     {
         "_name": "Aurora-7",
@@ -402,7 +402,7 @@ missions = [
     // GEMINI PROGRAM
     {
         "_name": "Gemini-III",
-        "_deps": ["Faith-7"]
+        "_deps": ["Friendship-7"]
     },
     {
         "_name": "Gemini-IV",
@@ -464,7 +464,7 @@ missions = [
     // APOLLO PROGRAM
     {
         "_name": "Little-Joe-II",
-        "_deps": ["Gemini-XII"]
+        "_deps": ["Gemini-VIII"]
     },
     {
         "_name": "Apollo-7",
@@ -488,11 +488,13 @@ missions = [
     },
     {
         "_name": "Apollo-12",
-        "_deps": ["Apollo-11","Surveyor-3"]
+        "_deps": ["Apollo-11","Surveyor-3"],
+        "requires": "Requires Surveyor-3 and Apollo-11"
     },
     {
         "_name": "Apollo-13",
-        "_deps": ["Apollo-12"]
+        "_deps": ["Apollo-12"],
+
     },
     {
         "_name": "Apollo-14",
@@ -512,7 +514,7 @@ missions = [
     },
     {
         "_name": "Skylab-1",
-        "_deps": ["Apollo-17"]
+        "_deps": ["Apollo-7"]
     },
     {
         "_name": "Skylab-2",
@@ -571,7 +573,132 @@ missions = [
         "_deps": ["Strawman"]
     },
     
-    
-    
-    
+    // TIROS
+    {
+        "_name": "TIROS-Satellite",
+        "_deps": ["Vanguard-2"]
+    },
+
+    // NIMBUS
+    {
+        "_name": "Nimbus-1",
+        "_deps": ["TIROS-Satellite"]
+    },
+    {
+        "_name": "Nimbus-2",
+        "_deps": ["Nimbus-1"]
+    },
+    {
+        "_name": "Nimbus-3",
+        "_deps": ["Nimbus-2"]
+    },
+    {
+        "_name": "Nimbus-4",
+        "_deps": ["Nimbus-3"]
+    },
+    {
+        "_name": "Nimbus-5",
+        "_deps": ["Nimbus-4"]
+    },
+    {
+        "_name": "Nimbus-6",
+        "_deps": ["Nimbus-5"]
+    },
+    {
+        "_name": "Nimbus-7",
+        "_deps": ["Nimbus-6"]
+    },
+
+    // TRANSIT
+    {
+        "_name": "Transit-1A",
+        "_deps": ["Vanguard-3"]
+    },
+    {
+        "_name": "Transit-1B",
+        "_deps": ["Transit-1A"]
+    },
+    {
+        "_name": "Transit-2A",
+        "_deps": ["Transit-1B"]
+    },
+    {
+        "_name": "Transit-3A",
+        "_deps": ["Transit-2A"]
+    },
+    {
+        "_name": "Transit-3B",
+        "_deps": ["Transit-3A"]
+    },
+    {
+        "_name": "Transit-4A",
+        "_deps": ["Transit-3B"]
+    },
+    {
+        "_name": "Transit-5A missions",
+        "_deps": ["Transit-4A"]
+    },
+    {
+        "_name": "Transit-5BN",
+        "_deps": ["Transit-5A missions"]
+    },
+    {
+        "_name": "Transit-5C1",
+        "_deps": ["Transit-5BN"]
+    },
+    {
+        "_name": "Transit-O missions",
+        "_deps": ["Transit-5C1"]
+    },
+    {
+        "_name": "Transit-SOOS missions",
+        "_deps": ["Transit-O missions"]
+    },
+    {
+        "_name": "Poppy missions",
+        "_deps": ["Vanguard-3"]
+    },
+
+    // SCORE
+    {
+        "_name": "SCORE",
+        "_deps": ["Explorer-1"]
+    },
+
+    // COURIER
+    {
+        "_name": "Courier-1A",
+        "_deps": ["SCORE"]
+    },
+    {
+        "_name": "Courier-1B",
+        "_deps": ["Courier-1A"]
+    },
+
+    // RELAY
+    {
+        "_name": "Relay-1",
+        "_deps": ["Courier-1A"]
+    },
+    {
+        "_name": "Relay-2",
+        "_deps": ["Relay-1"]
+    },
+
+    // TELSTAR
+    {
+        "_name": "Telstar-1",
+        "_deps": ["Courier-1A"]
+    },
+    {
+        "_name": "Telstar-2",
+        "_deps": ["Telstar-1"]
+    },
+
+    // IDCSP
+    {
+        "_name": "IDCSP missions",
+        "_deps": ["Courier-1B"]
+    },
+
 ]
