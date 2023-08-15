@@ -1,0 +1,37 @@
+<html>
+
+<head>
+    <style>
+        body,
+        html {
+            height: 100vh;
+            /*width: 100%;*/
+            overflow: auto;
+            padding: 0;
+            margin: 0;
+        }
+
+        #tree {
+            min-height: 100vh;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="tree"></div>
+</body>
+
+<script type="text/javascript" src="dependentree.js"></script>
+<script type="text/javascript" src="missions.js"></script>
+<script>
+    treeOptions = ({
+        maxDepth: 50,
+        containerWidthInPx: 9000
+    })
+    const tree = new DependenTree('div#tree', treeOptions);
+    tree.addEntities(missions);
+    tree.setTree('Explorer-1', 'downstream');
+    tree.expandAll()
+</script>
+
+</html>
