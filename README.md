@@ -1,4 +1,4 @@
-# Bluedog Design Bureau Contracts 
+# BDB JNSQ Contracts
 Contract pack for the Bluedog Design Bureau parts using the JNSQ mod.
 ** Still not finished **
 
