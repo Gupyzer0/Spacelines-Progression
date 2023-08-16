@@ -675,6 +675,12 @@ missions = [
         "_deps": ["Courier-1A"]
     },
 
+    // SYNCOM
+    {
+        "_name": "Syncom missions",
+        "_deps": ["Courier-1B"]
+    },
+
     // RELAY
     {
         "_name": "Relay-1",
@@ -698,7 +704,7 @@ missions = [
     // IDCSP
     {
         "_name": "IDCSP missions",
-        "_deps": ["Courier-1B"]
+        "_deps": ["Syncom missions"]
     },
 
 ]
