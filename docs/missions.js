@@ -86,7 +86,7 @@ missions = [
     // BIOSATELLITE
     {
         "_name": "Biosatellite-1",
-        "_deps": ["Gemini-XII"]
+        "_deps": ["Corona_KH1"]
     },
     {
         "_name": "Biosatellite-2",
