@@ -181,6 +181,12 @@ missions = [
         "_deps": ["OAO-2"]
     },
 
+    //KEPLER
+    {
+        "_name": "Kepler",
+        "_deps": ["OAO-3"]
+    },
+
     // OGO
     {
         "_name": "OGO-Equatorial",
