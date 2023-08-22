@@ -568,6 +568,12 @@ missions = [
         "_name": "Hexagon_KH9",
         "_deps": ["Gambit3_KH8"]
     },
+
+    // P-11 Subsatellite
+    {
+        "_name": "P-11",
+        "_deps": ["Hexagon_KH9"]
+    },
     
     // STRAWMAN
     {
@@ -669,6 +675,12 @@ missions = [
     {
         "_name": "SCORE",
         "_deps": ["Explorer-1"]
+    },
+
+    // OSCAR
+    {
+        "_name": "OSCAR",
+        "_deps": ["Corona_KH1"]
     },
 
     // COURIER

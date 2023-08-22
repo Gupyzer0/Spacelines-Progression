@@ -1,7 +1,7 @@
 # BDB JNSQ Contracts
 Contract pack for the Bluedog Design Bureau parts using the JNSQ mod.
-** Still not finished **
-
+[Watch the contracts progression here](https://gupyzer0.github.io/BDB_JNSQ_Contracts/)
+ 
 ### This mod builds on top of these wonderful mods:
 * History of Spaceflight contract pack (Forked).
 * BDB contracts available with the mod.
