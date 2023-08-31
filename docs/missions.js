@@ -408,23 +408,23 @@ missions = [
     // GEMINI PROGRAM
     {
         "_name": "Gemini-III",
-        "_deps": ["Friendship-7"]
+        "_deps": ["Friendship-7"],
     },
     {
         "_name": "Gemini-IV",
-        "_deps": ["Gemini-III"]
+        "_deps": ["Gemini-III"],
     },
     {
         "_name": "Gemini-V",
-        "_deps": ["Gemini-IV"]
+        "_deps": ["Gemini-IV"],
     },
     {
         "_name": "Gemini-VII",
-        "_deps": ["Gemini-V"]
+        "_deps": ["Gemini-V"],
     },
     {
         "_name": "Gemini-VI-A",
-        "_deps": ["Gemini-VII"]
+        "_deps": ["Gemini-VII"],
     },
     {
         "_name": "Gemini-VIII-ATV",
@@ -432,7 +432,7 @@ missions = [
     },
     {
         "_name": "Gemini-VIII",
-        "_deps": ["Gemini-VIII-ATV"]
+        "_deps": ["Gemini-VIII-ATV"],
     },
     {
         "_name": "Gemini-IX-ATDA",
@@ -440,7 +440,7 @@ missions = [
     },
     {
         "_name": "Gemini-IX-A",
-        "_deps": ["Gemini-IX-ATDA"]
+        "_deps": ["Gemini-IX-ATDA"],
     },
     {
         "_name": "Gemini-X-ATV",
@@ -448,7 +448,7 @@ missions = [
     },
     {
         "_name": "Gemini-X",
-        "_deps": ["Gemini-X-ATV"]
+        "_deps": ["Gemini-X-ATV"],
     },
     {
         "_name": "Gemini-XI-ATV",
@@ -456,7 +456,7 @@ missions = [
     },
     {
         "_name": "Gemini-XI",
-        "_deps": ["Gemini-XI-ATV"]
+        "_deps": ["Gemini-XI-ATV"],
     },
     {
         "_name": "Gemini-XII-ATV",
@@ -464,7 +464,17 @@ missions = [
     },
     {
         "_name": "Gemini-XII",
-        "_deps": ["Gemini-XII-ATV"]
+        "_deps": ["Gemini-XII-ATV"],
+    },
+    {
+        "_name": "Gemini-Mun-Flyby",
+        "_deps": ["Gemini-XII"],
+        "_alternate_history": "true",
+    },
+    {
+        "_name": "Gemini-Minmus-Flyby",
+        "_deps": ["Gemini-Mun-Flyby"],
+        "_alternate_history": "true",
     },
 
     // APOLLO PROGRAM
