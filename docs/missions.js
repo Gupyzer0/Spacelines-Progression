@@ -117,24 +117,8 @@ missions = [
 
     // LUNAR ORBITER
     {
-        "_name": "Lunar-Orbiter-1",
+        "_name": "Lunar-Orbiter",
         "_deps": ["Surveyor-1"]
-    },
-    {
-        "_name": "Lunar-Orbiter-2",
-        "_deps": ["Lunar-Orbiter-1"]
-    },
-    {
-        "_name": "Lunar-Orbiter-3",
-        "_deps": ["Lunar-Orbiter-2"]
-    },
-    {
-        "_name": "Lunar-Orbiter-4",
-        "_deps": ["Lunar-Orbiter-3"]
-    },
-    {
-        "_name": "Lunar-Orbiter-5",
-        "_deps": ["Lunar-Orbiter-4"]
     },
 
     // MARINER
@@ -200,16 +184,8 @@ missions = [
 
     // PEGASUS
     {
-        "_name": "Pegasus-1",
+        "_name": "Pegasus Missions",
         "_deps": ["Little-Joe-II"]
-    },
-    {
-        "_name": "Pegasus-2",
-        "_deps": ["Pegasus-1"]
-    },
-    {
-        "_name": "Pegasus-3",
-        "_deps": ["Pegasus-2"]
     },
 
     // PIONEER
