@@ -53,7 +53,7 @@ missions = [
     },
     {
         "_name": "Explorer-22",
-        "_deps": ["Explorer-21"]
+        "_deps": ["Explorer-18"]
     },
     {
         "_name": "Explorer-27",
@@ -61,15 +61,15 @@ missions = [
     },
     {
         "_name": "Explorer-28",
-        "_deps": ["Explorer-27"]
+        "_deps": ["Explorer-21"]
     },
     {
         "_name": "Explorer-30",
-        "_deps": ["Explorer-28"]
+        "_deps": ["Explorer-18"]
     },
     {
         "_name": "Explorer-33",
-        "_deps": ["Explorer-30"]
+        "_deps": ["Explorer-28"]
     },
     {
         "_name": "Explorer-35",
