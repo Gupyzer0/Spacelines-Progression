@@ -555,6 +555,12 @@ missions = [
         "_deps": ["Gambit3_KH8"]
     },
 
+    // MOL
+    {
+        "_name": "Gemini-MOL",
+        "_deps": ["Hexagon_KH9"]
+    },
+
     // P-11 Subsatellite
     {
         "_name": "P-11",
