@@ -444,7 +444,7 @@ missions = [
     },
     {
         "_name": "Gemini-Mun-Flyby",
-        "_deps": ["Gemini-XII"],
+        "_deps": ["Gemini-X"],
         "_alternate_history": "true",
     },
     {
