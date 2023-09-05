@@ -151,6 +151,20 @@ missions = [
         "_deps": ["Mariner-9"]
     },
 
+    // Voyager
+    {
+        "_name": "Voyager-2",
+        "_deps": ["Mariner-10"]
+    },
+    {
+        "_name": "Voyager-1",
+        "_deps": ["Voyager-2"]
+    },
+    {
+        "_name": "Voyager-Mars",
+        "_deps": ["Mariner-10"]
+    },
+
     // OAO
     {
         "_name": "OAO-1",
