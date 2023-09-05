@@ -520,7 +520,7 @@ missions = [
     },
     {
         "_name": "Skylab-1",
-        "_deps": ["Apollo-7"]
+        "_deps": ["Apollo-11"]
     },
     {
         "_name": "Skylab-2",
@@ -536,7 +536,13 @@ missions = [
     },
     {
         "_name": "Apollo-Soyuz",
-        "_deps": ["Skylab-4"]
+        "_deps": ["Skylab-2"]
+    },
+
+    // VENUS FLYBY
+    {
+        "_name": "APA: Venus Flyby",
+        "_deps": ["Skylab-2"]
     },
 
     // KEYHOLE
