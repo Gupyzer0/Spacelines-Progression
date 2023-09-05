@@ -243,6 +243,14 @@ missions = [
         "_name": "Pioneer-11",
         "_deps": ["Pioneer-10"]
     },
+    {
+        "_name": "Pioneer-12",
+        "_deps": ["Pioneer-10"]
+    },
+    {
+        "_name": "Pioneer-13",
+        "_deps": ["Pioneer-12"]
+    },
     
     // BEACON
     {
