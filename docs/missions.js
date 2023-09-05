@@ -541,7 +541,7 @@ missions = [
 
     // VENUS FLYBY
     {
-        "_name": "APA: Venus Flyby",
+        "_name": "AAP: Venus Flyby",
         "_deps": ["Skylab-2"]
     },
 
