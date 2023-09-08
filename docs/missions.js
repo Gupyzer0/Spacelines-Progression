@@ -151,10 +151,36 @@ missions = [
         "_deps": ["Mariner-9"]
     },
 
+    // Mariner Edna Dres
+    {
+        "_name": "Mariner-Edna-Dres",
+        "_deps": ["Mariner-10"]
+    },
+
+    // Viking
+    {
+        "_name": "Viking-1",
+        "_deps": ["Mariner-10"]
+    },
+    {
+        "_name": "Viking-2",
+        "_deps": ["Viking-1"]
+    },
+
+    // Viking Edna-Dres
+    {
+        "_name": "Viking-Edna",
+        "_deps": ["Mariner-Edna-Dres"]
+    },
+    {
+        "_name": "Viking-Dres",
+        "_deps": ["Mariner-Edna-Dres"]
+    },
+
     // Voyager
     {
         "_name": "Voyager-2",
-        "_deps": ["Mariner-10"]
+        "_deps": ["Viking-1"]
     },
     {
         "_name": "Voyager-1",
@@ -251,7 +277,15 @@ missions = [
         "_name": "Pioneer-13",
         "_deps": ["Pioneer-12"]
     },
-    
+    {
+        "_name": "Pioneer-Atmosphere-Entry",
+        "_deps": ["Pioneer-13"]
+    },
+    {
+        "_name": "Pioneer-Outer-Planets-Orbiter",
+        "_deps": ["Pioneer-13"]
+    },
+
     // BEACON
     {
         "_name": "Beacon-1",
@@ -551,6 +585,11 @@ missions = [
     {
         "_name": "AAP: Venus Flyby",
         "_deps": ["Skylab-2"]
+    },
+    // MARS FLYBY
+    {
+        "_name": "AAP: Mars Flyby",
+        "_deps": ["AAP: Venus Flyby"]
     },
 
     // KEYHOLE
