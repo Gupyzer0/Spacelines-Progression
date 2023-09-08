@@ -180,7 +180,7 @@ missions = [
     // Voyager
     {
         "_name": "Voyager-2",
-        "_deps": ["Viking-2"]
+        "_deps": ["Viking-1"]
     },
     {
         "_name": "Voyager-1",
@@ -585,6 +585,11 @@ missions = [
     {
         "_name": "AAP: Venus Flyby",
         "_deps": ["Skylab-2"]
+    },
+    // MARS FLYBY
+    {
+        "_name": "AAP: Mars Flyby",
+        "_deps": ["AAP: Venus Flyby"]
     },
 
     // KEYHOLE
