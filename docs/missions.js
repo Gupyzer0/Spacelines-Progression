@@ -151,12 +151,6 @@ missions = [
         "_deps": ["Mariner-9"]
     },
 
-    // Mariner Edna Dres
-    {
-        "_name": "Mariner-Edna-Dres",
-        "_deps": ["Mariner-10"]
-    },
-
     // Viking
     {
         "_name": "Viking-1",
@@ -165,16 +159,6 @@ missions = [
     {
         "_name": "Viking-2",
         "_deps": ["Viking-1"]
-    },
-
-    // Viking Edna-Dres
-    {
-        "_name": "Viking-Edna",
-        "_deps": ["Mariner-Edna-Dres"]
-    },
-    {
-        "_name": "Viking-Dres",
-        "_deps": ["Mariner-Edna-Dres"]
     },
 
     // Voyager
