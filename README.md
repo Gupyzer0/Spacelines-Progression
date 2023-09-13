@@ -1,6 +1,6 @@
-# BDB JNSQ Contracts
-Contract pack for a sortoff historical progression using the Bluedog Design Bureau parts and the JNSQ planet pack.
-[Watch the contracts progression here](https://gupyzer0.github.io/BDB_JNSQ_Contracts/)
+# BDB KSRSS Contracts
+Contract pack for a sortoff historical progression using the Bluedog Design Bureau parts and the KSRSS planet pack.
+[Watch the contracts progression here](https://gupyzer0.github.io/BDB_KSRSS_Contracts/)
  
 ### This mod builds on top of other wonderful mods:
 * History of Spaceflight contract pack (Forked).
