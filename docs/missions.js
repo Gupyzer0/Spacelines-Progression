@@ -136,7 +136,7 @@ missions = [
     },
     {
         "_name": "Mariner-6",
-        "_deps": ["Mariner-5"]
+        "_deps": ["Mariner-5","Surveyor-1"]
     },
     {
         "_name": "Mariner-7",
