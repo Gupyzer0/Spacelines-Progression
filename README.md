@@ -3,11 +3,13 @@ Contract pack for a sortoff historical progression using the Bluedog Design Bure
 [Watch the contracts progression here](https://gupyzer0.github.io/BDB_JNSQ_Contracts/)
  
 ### This mod builds on top of other wonderful mods:
-* History of Spaceflight contract pack (Forked).
+* RP-1 Contracts.
 * Bluedog Design Bureau Contracts.
+* History of Spaceflight contract pack.
 
 ### LICENSE CC-BY-NC-SA-4.0
 
 ### Might add later missions for . . . (Once I get some more RAM memory)
 - [ ] Ж-20 "Moroz" Spaceplane - For Dynasoar.
 - [ ] SOCK - For Shuttle !.
+- [ ] Tantares Parts.
