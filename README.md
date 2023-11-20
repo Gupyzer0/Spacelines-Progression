@@ -4,23 +4,21 @@ Sometimes I've thought of having some *blend* between Stock KSP and Realistic Pr
 On the other hand, my system can't handle Realism Overhaul (RO) well and the fact that I have to use the procedural tanks in RO instead of the BDB parts for most of the builds makes RO a bit cumbersome for me. so I decided to make the **Spacelines Progression**.
 
 ## What is the Spacelines Progression?
-It's a combination of RP1 contracts modified to work with a non-extended Contract Configurator install using the JNSQ planet pack and BDB parts but it also uses Custom Barn Kit to add some new levels to unlock the KSC Buildings.
+It's a combination of -sort of RP1- contracts modified to work with a non-modified Contract Configurator install using the JNSQ planet pack and BDB parts.
   
 ### Requirements
 - JNSQ planet pack.
 - Contract Configurator.
 - Bluedog Design Bureau.
-- Custom Barn Kit.
 
 ### Suggestions 
 - Kerbal Construction Time - Now you need some time to make updates/ships!
 - Engine Ignitor Re-ignited Release - Ah yes, the need for ullage, which is one of the best things in RO.
 
-### This mod builds on top of other wonderful mods:
+### This mod uses code/inspiration of these wonderful mods:
 * RP-1 (Contracts).
 * Bluedog Design Bureau (Contracts) / required parts for some contracts.
 * History of Spaceflight contract pack (Gave me the idea).
-* Komplexity (For its custom barn kit configuration).
 
 ### LICENSE CC-BY-NC-SA-4.0
 
