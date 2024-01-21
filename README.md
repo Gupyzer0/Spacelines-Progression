@@ -10,6 +10,7 @@ It's a combination of -sort of RP1- contracts modified to work with a non-modifi
 - JNSQ planet pack.
 - Contract Configurator.
 - Bluedog Design Bureau.
+- Spacelines Kerbalism.
 
 ### Suggestions 
 - Kerbal Construction Time - Now you need some time to make updates/ships!
