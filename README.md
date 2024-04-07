@@ -7,7 +7,7 @@ On the other hand, my system can't handle Realism Overhaul (RO) well and the fac
 It's a combination of -sort of RP1- contracts modified to work with a non-modified Contract Configurator install using the JNSQ planet pack and BDB parts.
   
 ### Requirements
-- JNSQ planet pack.
+- JNSQ/KSRSS planet pack.
 - Contract Configurator.
 - Bluedog Design Bureau.
 - Spacelines Kerbalism.
