@@ -20,6 +20,7 @@ It's a combination of -sort of RP1- contracts modified to work with a non-modifi
 * RP-1 (Contracts).
 * Bluedog Design Bureau (Contracts) / required parts for some contracts.
 * History of Spaceflight contract pack (Gave me the idea).
+* K-Planes contract pack.
 
 ### LICENSE CC-BY-NC-SA-4.0
 
